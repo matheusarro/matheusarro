@@ -1,6 +1,6 @@
 <h2 align='center'>About Me</h2>
 
-Hi! My name is Matheus. I'm a junior front-end developer who's been working with IT for a few years. My goal is to learn more and more, improving my hard and softskills. In this repository you will find some study projects and also personal ones.
+Hi! I'm Matheus, a front-end engineer with three years of programming experience and a background in IT. I'm passionate about continuous learning and aim to improve both my hard and soft skills. In this repository, you'll find a collection of my study and personal projects.
 
 <div>
   <img src='https://github-readme-stats.vercel.app/api?username=matheusarro&theme=react&count_private=true&include_all_commits=true&show_icons=true&hide_border=true' alt='GitHub Stats' height='160rem' />
